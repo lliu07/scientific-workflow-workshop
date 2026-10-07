@@ -1,5 +1,6 @@
 # Scientific workflow GitHub workshop
 
+Hi, Lauren!
 This synthetic repository supports two workshops:
 
 1. **GitHub Foundations for Scientific Work**
